@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Single Test">
+	<parameter name="browser" value="chrome"/>
+	<test verbose="2" name="Test" preserve-order="true">
+<!--		<classes>-->
+<!--			<class name="com.pcgus.ci.scholar.testcases.privateschool.School_Info_VerifyMySchoolPageDisplaysTest" />-->
+<!--			<class name="com.pcgus.ci.scholar.testcases.privateschool.School_Students_VerifyCompleteSchoolReviewTest" />-->
+<!--		</classes>-->
+		<classes>
+<!--			<class name="com.pcgus.ci.scholar.testcases.home.Admiral_Settings_Users_VerifyUsersTabTest"></class>-->
+			<class name="com.pcgus.ci.scholar.testcases.inprogresstest.pxkn2o2cjxczftc2re24ljqqmpegaffc"></class>
+		</classes>
+	</test>
+</suite>
